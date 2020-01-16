@@ -1,5 +1,6 @@
 package WikipediaSearch.Wiki;
 
+//
 import org.testng.annotations.Test;
 
 public class OnlineRegistrationTest {

@@ -18,6 +18,8 @@ public class ReadExcel1 {
 	String data0 = sheet1.getRow(1).getCell(0).getStringCellValue();
 	System.out.println("Data from excel is " +data0);
 	
+	//making changes
+	
 	//If you want to close wb to avoid memory leak
 	 // wb.close();
   }
